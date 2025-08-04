@@ -64,7 +64,7 @@ void push(int arr[],int* size,int* top) //done
 
 }
 
-int peek(int arr[],int* top) //done kshxjasx
+int peek(int arr[],int* top) //done
 {
     if(*top==-1)
     {
